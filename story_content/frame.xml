@@ -11,7 +11,7 @@
     <optiongroups>
       <optiongroup name="sidebaroptions">
         <options>
-          <option name="title_enabled" value="true">
+          <option name="title_enabled" value="false">
             <options>
               <option name="title_text" value="Match made in heaven" />
             </options>
@@ -69,7 +69,7 @@
           <option name="pauseplay" value="true" />
           <option name="replay" value="true" />
           <option name="search" value="false" />
-          <option name="closed_captions" value="true" />
+          <option name="closed_captions" value="false" />
           <option name="settings" value="false" />
           <option name="playbackSpeedControl" value="false" />
           <option name="fullScreenToggle" value="false" />
